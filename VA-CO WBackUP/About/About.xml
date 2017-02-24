@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <name>VA-CO Blood and Pain</name>
+
+    <author>Aristocat</author>
+
+    <url></url>
+
+    <targetVersion>0.16.1393</targetVersion>
+
+    <description>
+
+- Injuries cause bleeding three times more.
+
+- Injuries cause twice more pain and thrice for non-bleeding injuries(ex, bruises).
+
+- Blood lose cause pain and more severe conscious lose.
+
+- Some of punctured organs now cause three times severe bleeding. (In vanilla punctuered kidney, lungs and liver etc doesn't cause additional blood loss, only heart and neck does.)
+
+- Go Juice pain reducion increased to 80% from 10%, and increase blood filteration and blood pumping.
+
+</description>
+
+</ModMetaData>
