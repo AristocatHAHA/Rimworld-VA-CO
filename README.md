@@ -1,10 +1,12 @@
+[![RimWorld Alpha 16](https://img.shields.io/badge/RimWorld-Alpha 16-brightgreen.svg)](http://rimworldgame.com/)
+
 # VA-CO
 Rimworld Advanced - Combat Overhaul
 
 
-[center][size=18pt][color=white][b]Vanilla Advanced - Combat Overhaul. VA-CO[/b][/color][/size][/center]
+Vanilla Advanced - Combat Overhaul. VA-CO
 
-[size=10pt][color=white]Description:[/color][/size]
+Description:
 
 VA-CO try to reduce frustratingness of combat by increasing survival rate of colonists while decreasing ever frustrating permanent injury.
 
@@ -16,9 +18,9 @@ Ironically, increasing pain is opposite of hardcore because when a colonist goes
 
 All three are separated and you can play as you like.
 
-[size=10pt][color=white]Features:[/color][/size]
+Features
 
-[size=10pt][color=white]Blood and Pain :[/color][/size]
+Blood and Pain
 
 - Injuries cause bleeding three times more.
 
@@ -30,12 +32,7 @@ All three are separated and you can play as you like.
 
 - Go Juice pain reduction increased to 80% from 10%, and now increase blood filtration and blood pumping.
 
-
-[b]Click to see large image.[/b]
-
-[url=http://i.imgur.com/vBSGed0.png][img width=450]http://i.imgur.com/vBSGed0.png[/img][/url]
-
-[size=10pt][color=white]Better Body Damage Distribution :[/color][/size]
+Better Body Damage Distribution
 
 - Hit chance(coverage) of the torso has been increased.
 
@@ -47,21 +44,14 @@ All three are separated and you can play as you like.
 
 - Coverage of eyes, hands, feet, fingers and toes has been significantly decreased.
 
-
-[url=http://i.imgur.com/o7Gph7U.png][img width=450]http://i.imgur.com/o7Gph7U.png[/img][/url]
-
-[size=10pt][color=white]Tougher Body :[/color][/size]
+Tougher Body :
 
 - Hit point of most body parts has been increased by 30% to 50% exception to head and organs.
 
 - Torso 40 to 60. Arms and Legs 30 to 40. Hands and feet 20 to 30. Bones(Radius, pelvis, femur and tibia.) 25 to 35.
 
 
-[size=10pt][color=white]Feature Overview :[/color][/size]
-
-[url=http://i.imgur.com/eXPDnzn.jpg][img width=750]http://i.imgur.com/eXPDnzn.jpg[/img][/url] [url=http://i.imgur.com/ruyGnd6.jpg][img width=750]http://i.imgur.com/ruyGnd6.jpg[/img][/url]
-
-[url=http://i.imgur.com/ni2Z2pT.png][img width=750]http://i.imgur.com/ni2Z2pT.png[/img][/url]
+Feature Overview :
 
 
 The problem of vanilla is that risk of permanent injury is too high and that encourages extremely defensive tactics, such as killbox turtling. VA-CO mod try to support every style of play. Grab shotguns and flank them, get the longsword and shove it up in the raider ass. Hell, you can even play full brawler monks(Though, that would be hard.).
@@ -86,16 +76,14 @@ Go juice is now more viable tactical option, as it reduces pain which make extre
 
 Comparison :
 
-[url=http://i.imgur.com/LCrq5e5.jpg][img width=450]http://i.imgur.com/LCrq5e5.jpg[/img][/url]
-
 Vanilla : Pawns are basically bullet sponges and take dozens of shot to down. Permanent injury is far too common. Bleeding is pretty much none existence.
 
 VA-CO : Injuries that would have killed or permanently injure colonists instead down them, as long as you have won the battle and got enough doctors patch them up they can survive the day and fight next fight.
 
 
-[size=10pt][color=white]Known issues:[/color][/size]
+Known issues:
 
 Please report any bugs, oddities or suggestions.
 
-[size=10pt][color=white]Incompatibilities:[/color][/size]
+Incompatibilities:
 Please report any incompatibilities.
